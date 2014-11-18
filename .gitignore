@@ -49,7 +49,7 @@ pkg
 #*.rbc
 
 Gemfile.lock
-=======
+
 *.gem
 *.rbc
 /.config
