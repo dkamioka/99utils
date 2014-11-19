@@ -17,10 +17,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "99utils"
   gem.homepage = "http://github.com/fitus/99utils"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "diogo.key@mowa.com.br"
-  gem.authors = ["Diogo Key"]
+  gem.summary = %Q{Alguns utilitarios e scripts que podem ajudar a fazer alguns trabalhos}
+  gem.description = %Q{Todos os scripts que podem servir de exemplo/template e também binarios que podem ser usados}
+  gem.email = "diogo@99jobs.com"
+  gem.authors = ["Diogo Kamioka"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
